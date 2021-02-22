@@ -1,8 +1,3 @@
-# feb/18/2021 04:32:00 by RouterOS 6.49beta11
-# software id = 302X-QBC1
-#
-# model = RB4011iGS+
-# serial number = D4490C73D415
 /system script
 add dont-require-permissions=no name=Download_malc0de owner=HomeRouter \
     policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive source="\
